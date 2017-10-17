@@ -6,3 +6,5 @@ You will need the following libraries:
 	libglu1-mesa-dev
 To make: run make from this directory
 To run: run ./prac1 from directory bin
+
+Use '1'-'0' to create specific patterns, 'c' to clear, 'r' to randomize, 's' to start the automata
